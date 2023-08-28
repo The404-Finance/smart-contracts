@@ -1,4 +1,4 @@
-# Luchow Contracts
+# The404 Finance Contracts
 This repo contains all the contracts used in The404 Finance.
 It is divided in independent projects where each of them contains its smart contracts.
 
