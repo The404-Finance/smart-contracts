@@ -1,14 +1,6 @@
-/**
- *Submitted for verification at Etherscan.io on 2023-03-30
-*/
-
-/**
- *Submitted for verification at BscScan.com on 2021-05-05
-*/
-
-pragma solidity >=0.8.0;
+// SPDX-License-Identifier: MIT 
+pragma solidity >=0.5.0;
 pragma experimental ABIEncoderV2;
-
 
 /// @title Multicall2 - Aggregate results from multiple read-only function calls
 /// @author Michael Elliot <mike@makerdao.com>
